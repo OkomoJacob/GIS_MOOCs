@@ -5,7 +5,7 @@
   - [Course Objectives](#course-objectives)
   - 
 - [Understanding web pages](#understanding-web-pages)
-  - [1. Start with GIS and a GIS Software](#1-start-with-gis-and-a-gis-software)
+  - [1.Getting started with HTML](#getting-started-with-html)
     - [Resources](#resources)
   - [2. Then Pickup HTML and CSS](#2-then-pickup-html-and-css)
     - [Resources](#resources-1)
@@ -29,10 +29,14 @@
 - Differentiate between HTML, CSS, and JavaScript.
 - Given code, alter the position and style of components within a web map app.
 
-### Understanding web pages
-Have a look at the definition of [WebGIS Section 1 – A Quick Introduction to GIS and WebGIS](https://www.gislounge.com/section-1-a-quick-introduction-to-gis-and-webgis/)
+## Understanding web pages
+Every web page consist of:
+    - HTML
+    - CSS
+    - Scripting Language e.g JS
 
-## Web GIS Learning Guide
+<img src= "https://github.com/OkomoJacob/myLibrary/blob/main/GISDev%20RoadMap/roadmap.png">
+### Getting started with HTML
 
 <img src= "https://github.com/OkomoJacob/myLibrary/blob/main/GISDev%20RoadMap/roadmap.png">
 
