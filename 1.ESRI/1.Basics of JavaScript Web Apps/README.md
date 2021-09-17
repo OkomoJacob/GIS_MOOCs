@@ -1,8 +1,9 @@
 ## Basics of JavaScript Web Apps By ESRI
 
 ### Contents:
-- [Course Objectives](#course-objectives)
-- 
+- [INTRODUCTION](#introduction)
+  - [Course Objectives](#course-objectives)
+  - 
 - [Web GIS Learning Guide](#web-gis-learning-guide)
   - [1. Start with GIS and a GIS Software](#1-start-with-gis-and-a-gis-software)
     - [Resources](#resources)
@@ -23,7 +24,8 @@
       - [Acknowledgements](#acknowledgements)
 - [Related Articles](#related-articles)
 
-## Course Objectives
+## INTRODUCTION
+### Course Objectives
 - Differentiate between HTML, CSS, and JavaScript.
 - Given code, alter the position and style of components within a web map app.
 
