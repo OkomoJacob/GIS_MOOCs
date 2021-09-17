@@ -21,15 +21,12 @@
 - Differentiate between HTML, CSS, and JavaScript.
 - Given code, alter the position and style of components within a web map app.
 
-## Understanding web pages
+## Understanding web pages and Getting started with HTML & CSS
 Every web page consist of:
 - HTML
 - CSS
 - Scripting Language e.g JS
 
-<img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/webPage.png">
-
-### Getting started with HTML
 This is basically how a sample web page structure should look like.However, you can play around with the tags at freedom.
 <img src = "https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/webPage.png">
 ## Making web pages dynamic
