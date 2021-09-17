@@ -14,6 +14,7 @@
 
 ### Contents:
 - [Basics of JavaScript Web Apps By ESRI](#basics-of-javascript-web-apps-by-esri)
+    - [Find Your Developer of Twitter](#find-your-developer-of-twitter)
   - [Contents:](#contents)
 - [INTRODUCTION](#introduction)
   - [Course Objectives](#course-objectives)
@@ -28,6 +29,8 @@
   - [Results](#results)
   - [Final Result](#final-result)
   - [Acknowledgements](#acknowledgements)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## INTRODUCTION
 Your project folder structure should look like this:
@@ -92,10 +95,10 @@ Below was the final simple result showing the postion of Sandusky, Ohio,USA.Howe
 ### Acknowledgements
 1. [ESRI ArcGIS for JavaScript](https://developers.arcgis.com/javascript/latest/)
 2. 
-#### Contributing
+### Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-#### License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/OkomoJacob/GIS_MOOCs/blob/main/LICENSE) file for details
