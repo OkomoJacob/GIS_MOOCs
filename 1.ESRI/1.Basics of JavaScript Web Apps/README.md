@@ -37,6 +37,7 @@ This is basically how a sample web page structure should look like.However, you 
 
 ### Getting started with JavaScript
 Scripting languages primarily run inside web browsers to make web pages dynamic and interactive. There are many scripting languages available that are supported in multiple web browsers. When you create a web page that contains JavaScript, remember that JavaScript behaves differently in different web browsers. Incompatibility differences may exist based on which JavaScript capabilities are supported in each browser.
+
 <img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/Getting%20started%20with%20JavaScript_2.png">
 
 ### Write JavaScript code
@@ -48,10 +49,10 @@ Your supervisor has assigned you to complete the following JavaScript code to ma
 ### [Discovering the ArcGIS API for JavaScript](https://developers.arcgis.com/)
 An application program interface (API) is set of objects and tools used for building applications. APIs exist for building desktop, mobile, and web-based applications. The ArcGIS API for JavaScript is a web API that allows you to script applications that are accessible over the web. Numerous APIs are available for building applications, and you can use multiple APIs to build a single web app. Using the ArcGIS API for JavaScript, you can implement GIS and mapping interaction-related functions by writing just a few lines of JavaScript code
 
-<img src= "https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/ArcGIS%20API%20for%20JavaScript.png">
+<img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/ArcGIS%20API%20for%20JavaScript.png">
 Mapping, querying, feature editing, tracking, routing, and geoprocessing tasks are all capabilities or services available to you when using the ArcGIS API for JavaScript.
 
-<img https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/Dojo%20Toolkit.png>
+<img src ="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/Dojo%20Toolkit.png">
 - The ArcGIS API for JavaScript communicates directly with individual services published to ArcGIS for Server or services hosted in Portal for ArcGIS or ArcGIS Online. 
 - The ArcGIS API for JavaScript is built on top of the [Dojo Toolkit](https://dojotoolkit.org/). 
 - The toolkit provides widgets, CSS styles, and JavaScript functions for building robust interactive web apps.
@@ -68,4 +69,8 @@ You work as a technical professional for a large auto parts company based out of
 ### Results
 - Upon modifying the codes to get started with the ArcGIS Javascript API, you sould get sample outpits like the ones appended below.
 <img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/preview.png">
+### Final Result
+Below was the final simple result showing the postion of Sandusky, Ohio,USA.However, you can tweak it even more and share back your results.
 <img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/endResults.png">
+### Acknowledgements
+1. [ESRI ArcGIS for JavaScript](https://developers.arcgis.com/javascript/latest/)
