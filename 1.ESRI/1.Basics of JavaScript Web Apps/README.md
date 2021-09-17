@@ -35,7 +35,7 @@ Every web page consist of:
     - CSS
     - Scripting Language e.g JS
 
-<img src= "https://github.com/OkomoJacob/myLibrary/blob/main/GISDev%20RoadMap/roadmap.png">
+<img src= "https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/webPage.png">
 ### Getting started with HTML
 
 ### 1. Start with GIS and a GIS Software
