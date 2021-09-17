@@ -55,6 +55,6 @@ Mapping, querying, feature editing, tracking, routing, and geoprocessing tasks a
 Custom web apps are easy to create using the ArcGIS API for JavaScript. Styles, objects, and widgets are included in the API, allowing you to customize appearance, code custom functionality, and include existing functionality in your web app.
 #### Resources
 - [Esri Map Properties](https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html)
-- 
+- [Basemaps](https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html#basemap)
 ### Exercise: Modify an existing web map app
 You work as a technical professional for a large auto parts company based out of Sandusky, Ohio. Your supervisor has an idea for upgrading the corporate web app to include a map that geographically displays the company's distributor locations. You have been tasked with putting together a quick web mapping app prototype. The prototype will display a map centered on the location of the company headquarters. To build the prototype, you will use HTML, CSS, and JavaScript referencing the ArcGIS API for JavaScript.
