@@ -8,6 +8,7 @@
 - [Understanding web pages](#understanding-web-pages)
   - [Getting started with HTML](#getting-started-with-html)
 - [Making web pages dynamic](#making-web-pages-dynamic)
+  - [Getting started with JavaScript](#getting-started-with-javascript)
 
 ## INTRODUCTION
 ### Course Objectives
@@ -27,4 +28,6 @@ Every web page consist of:
 - You will now learn about using JavaScript to make a web page more interactive. 
 - This topic will introduce you to the basics of JavaScript scripting as well as how to get started writing JavaScript code. 
 - You will also learn about the ArcGIS API for JavaScript and how to implement a basic web mapping app using it.
-- 
+
+### Getting started with JavaScript
+
