@@ -9,7 +9,7 @@
 ![Forks](https://img.shields.io/github/forks/OkomoJacob/GIS_MOOCs?style=social) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
-#### Find Your Developers
+#### Find Your Developer of Twitter
 [![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/okomojacob)
 
 ### Contents:
