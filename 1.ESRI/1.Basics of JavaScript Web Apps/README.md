@@ -14,6 +14,8 @@
     - [Resources](#resources)
   - [Exercise: Modify an existing web map app](#exercise-modify-an-existing-web-map-app)
   - [Results](#results)
+  - [Final Result](#final-result)
+  - [Acknowledgements](#acknowledgements)
 
 ## INTRODUCTION
 ### Course Objectives
@@ -72,5 +74,6 @@ You work as a technical professional for a large auto parts company based out of
 ### Final Result
 Below was the final simple result showing the postion of Sandusky, Ohio,USA.However, you can tweak it even more and share back your results.
 <img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/endResults.png">
+
 ### Acknowledgements
 1. [ESRI ArcGIS for JavaScript](https://developers.arcgis.com/javascript/latest/)
