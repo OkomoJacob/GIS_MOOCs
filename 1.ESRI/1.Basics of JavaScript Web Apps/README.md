@@ -38,7 +38,5 @@ Every web page consist of:
 <img src= "https://github.com/OkomoJacob/myLibrary/blob/main/GISDev%20RoadMap/roadmap.png">
 ### Getting started with HTML
 
-<img src= "https://github.com/OkomoJacob/myLibrary/blob/main/GISDev%20RoadMap/roadmap.png">
-
 ### 1. Start with GIS and a GIS Software
 The basic GIS Operationis Key
