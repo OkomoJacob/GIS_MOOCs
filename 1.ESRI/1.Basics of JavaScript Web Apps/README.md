@@ -27,7 +27,7 @@ Every web page consist of:
 - CSS
 - Scripting Language e.g JS
 
-<img src= "https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/webPage.png">
+<img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/webPage.png">
 
 ### Getting started with HTML
 This is basically how a sample web page structure should look like.However, you can play around with the tags at freedom.
@@ -36,6 +36,7 @@ This is basically how a sample web page structure should look like.However, you 
 - You will now learn about using JavaScript to make a web page more interactive. 
 - This topic will introduce you to the basics of JavaScript scripting as well as how to get started writing JavaScript code. 
 - You will also learn about the ArcGIS API for JavaScript and how to implement a basic web mapping app using it.
+
 <img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/JSBrowsers.png">
 
 ### Getting started with JavaScript
@@ -71,3 +72,4 @@ You work as a technical professional for a large auto parts company based out of
 ### Results
 - Upon modifying the codes to get started with the ArcGIS Javascript API, you sould get sample outpits like the ones appended below.
 <img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/preview.png">
+<img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/endResults.png">
