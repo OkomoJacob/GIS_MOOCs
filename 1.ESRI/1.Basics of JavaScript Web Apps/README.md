@@ -41,7 +41,7 @@ This is basically how a sample web page structure should look like.However, you 
 
 ### Getting started with JavaScript
 Scripting languages primarily run inside web browsers to make web pages dynamic and interactive. There are many scripting languages available that are supported in multiple web browsers. When you create a web page that contains JavaScript, remember that JavaScript behaves differently in different web browsers. Incompatibility differences may exist based on which JavaScript capabilities are supported in each browser.
-<img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/Getting%20started%20with%20JavaScript_2.png".>
+<img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/Getting%20started%20with%20JavaScript_2.png">
 
 ### Write JavaScript code
 In this activity, you will practice writing your first JavaScript code using basic JavaScript functionality. Using the following instructions, construct your JavaScript by dragging the listed code items to their correct position in the unfinished web page.
