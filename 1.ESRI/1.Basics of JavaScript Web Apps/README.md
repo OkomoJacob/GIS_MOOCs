@@ -31,9 +31,9 @@
 
 ## Understanding web pages
 Every web page consist of:
-    - HTML
-    - CSS
-    - Scripting Language e.g JS
+- HTML
+- CSS
+- Scripting Language e.g JS
 
 <img src= "https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/webPage.png">
 ### Getting started with HTML
