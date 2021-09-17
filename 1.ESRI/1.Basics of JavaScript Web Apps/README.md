@@ -1,6 +1,5 @@
 ## Basics of JavaScript Web Apps By ESRI
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/OkomoJacob/GIS_MOOCs/issues)
 ![GitHub repo size](https://img.shields.io/github/repo-size/OkomoJacob/GIS_MOOCs.svg?color=purple&style=flat)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/OkomoJacob/GIS_MOOCs.svg?style=flat)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/OkomoJacob/GIS_MOOCs/blob/master/LICENSE)
