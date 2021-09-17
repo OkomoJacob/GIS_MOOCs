@@ -19,7 +19,7 @@
 
 ## INTRODUCTION
 Your project folder structure should look like this:
-<img src="https://github.com/OkomoJacob/GIS_MOOCs/tree/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps#acknowledgements">
+<img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/folderStructure.png">
 ### Course Objectives
 - Differentiate between HTML, CSS, and JavaScript.
 - Given code, alter the position and style of components within a web map app.
