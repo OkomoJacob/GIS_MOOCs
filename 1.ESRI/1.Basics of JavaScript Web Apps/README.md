@@ -81,11 +81,10 @@ An application program interface (API) is set of objects and tools used for buil
 <img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/ArcGIS%20API%20for%20JavaScript.png">
 Mapping, querying, feature editing, tracking, routing, and geoprocessing tasks are all capabilities or services available to you when using the ArcGIS API for JavaScript.
 
-<img src ="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/Dojo%20Toolkit.png">
-
 ```jsx
+
 <script>
-//call the default dojo require
+/call the default dojo require
     require([
         "esri/Map",
         "esri/views/MapView",
@@ -101,12 +100,12 @@ Mapping, querying, feature editing, tracking, routing, and geoprocessing tasks a
                 zoom: 9,
                 center: [35.005, -1.023]
                });
-              });
+            });
 </script>
 ```
 
 - The ArcGIS API for JavaScript communicates directly with individual services published to ArcGIS for Server or services hosted in Portal for ArcGIS or ArcGIS Online.<br>
-- The ArcGIS API for JavaScript is built on top of the [Dojo Toolkit](https://dojotoolkit.org/).<br>
+- The ArcGIS API for JavaScript is built on top of the [Dojo Toolkit](https://dojotoolkit.org/).The API for JS pulls the info into the dojo require function as shown in the cript above. <br>
 - The toolkit provides widgets, CSS styles, and JavaScript functions for building robust interactive web apps.<br>
 
 ### Implementing the ArcGIS API for JavaScript
@@ -115,8 +114,9 @@ Custom web apps are easy to create using the ArcGIS API for JavaScript. Styles, 
 - [Esri Map Properties](https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html)
 - [Basemaps](https://developers.arcgis.com/javascript/latest/api-reference/esri-Map.html#basemap)
 - [Explore Code Live on Sandbox](https://developers.arcgis.com/javascript/latest/sample-code/sandbox/?sample=intro-mapview)
-### Exercise: Modify an existing web map app
-You work as a technical professional for a large auto parts company based out of Sandusky, Ohio. Your supervisor has an idea for upgrading the corporate web app to include a map that geographically displays the company's distributor locations. You have been tasked with putting together a quick web mapping app prototype. The prototype will display a map centered on the location of the company headquarters. To build the prototype, you will use HTML, CSS, and JavaScript referencing the ArcGIS API for JavaScript.
+### Challenge: Modify an existing web map app
+Assume you work as a webGIS professional for a large auto parts company based in Nairobi, Kenya. Your supervisor has an idea for upgrading the corporate web app to include a map that geographically displays the company's distributor locations within a specific area. You have been tasked with putting together a quick web mapping app prototype for a client. The prototype will display a map centered on the location of the company HQs in Nairobi_Ke. To build the prototype, you will use HTML, CSS, and JavaScript referencing the ArcGIS API for JavaScript.
+- Go ahead and give it a try 
 
 ### Results
 - Upon modifying the codes to get started with the ArcGIS Javascript API, you sould get sample outpits like the ones appended below.
