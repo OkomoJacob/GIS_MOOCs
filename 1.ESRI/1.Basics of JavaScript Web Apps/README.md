@@ -84,7 +84,7 @@ Mapping, querying, feature editing, tracking, routing, and geoprocessing tasks a
 ```jsx
 
 <script>
-/call the default dojo require
+// call the default dojo require
     require([
         "esri/Map",
         "esri/views/MapView",
@@ -120,8 +120,8 @@ Assume you work as a webGIS professional for a large auto parts company based in
 
 ### Results
 - Upon modifying the codes to get started with the ArcGIS Javascript API, you sould get sample outpits like the ones appended below.
-<img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/preview.png">
-### Final Result
+<img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/preview.png"> <br>
+### Final Results
 Below was the final simple result showing the postion of Sandusky, Ohio,USA.However, you can tweak it even more and share back your results.
 <img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/endResults.png">
 
