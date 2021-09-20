@@ -66,7 +66,7 @@ Your supervisor has assigned you to complete the following JavaScript code to ma
 
 ```jsx
 function myFunction(message){
-    document.getElementById("mapView").innerHTML() = message;
+    document.getElementById("mapView").innerHTML = message;
 };
 ```
 #### Explanation
@@ -82,9 +82,31 @@ An application program interface (API) is set of objects and tools used for buil
 Mapping, querying, feature editing, tracking, routing, and geoprocessing tasks are all capabilities or services available to you when using the ArcGIS API for JavaScript.
 
 <img src ="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/Dojo%20Toolkit.png">
-- The ArcGIS API for JavaScript communicates directly with individual services published to ArcGIS for Server or services hosted in Portal for ArcGIS or ArcGIS Online. 
-- The ArcGIS API for JavaScript is built on top of the [Dojo Toolkit](https://dojotoolkit.org/). 
-- The toolkit provides widgets, CSS styles, and JavaScript functions for building robust interactive web apps.
+```jsx
+<script>
+//call the default dojo require
+    require([
+        "esri/Map",
+        "esri/views/MapView",
+        "dojo/domReady!"
+        ], 
+        function(Map, MapView){
+            var map = new Map({
+                basemap: "terrain"
+                );
+             var view = new MapView({
+                container: "viewDiv",
+                map: map,
+                zoom: 9,
+                center: [35.005, -1.023]
+               });
+              });
+</script>
+```
+
+- The ArcGIS API for JavaScript communicates directly with individual services published to ArcGIS for Server or services hosted in Portal for ArcGIS or ArcGIS Online.<br>
+- The ArcGIS API for JavaScript is built on top of the [Dojo Toolkit](https://dojotoolkit.org/).<br>
+- The toolkit provides widgets, CSS styles, and JavaScript functions for building robust interactive web apps.<br>
 
 ### Implementing the ArcGIS API for JavaScript
 Custom web apps are easy to create using the ArcGIS API for JavaScript. Styles, objects, and widgets are included in the API, allowing you to customize appearance, code custom functionality, and include existing functionality in your web app.
