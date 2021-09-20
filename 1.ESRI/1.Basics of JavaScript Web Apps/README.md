@@ -82,6 +82,7 @@ An application program interface (API) is set of objects and tools used for buil
 Mapping, querying, feature editing, tracking, routing, and geoprocessing tasks are all capabilities or services available to you when using the ArcGIS API for JavaScript.
 
 <img src ="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/Dojo%20Toolkit.png">
+
 ```jsx
 <script>
 //call the default dojo require
