@@ -63,8 +63,18 @@ Scripting languages primarily run inside web browsers to make web pages dynamic 
 In this activity, you will practice writing your first JavaScript code using basic JavaScript functionality. Using the following instructions, construct your JavaScript by dragging the listed code items to their correct position in the unfinished web page.
 
 Your supervisor has assigned you to complete the following JavaScript code to make it work properly. After an initial inspection of the code, you must create a function named myMessage. The myMessage function should be called directly from an onClick event when someone browsing your page clicks the Press Me button. Within the myMessage function, a variable named message is created with a value of My first JavaScript. After the variable is created, display the message variable in the document's demo div element.
-<img src="https://github.com/OkomoJacob/GIS_MOOCs/blob/main/1.ESRI/1.Basics%20of%20JavaScript%20Web%20Apps/assets/Getting%20started%20with%20JavaScript_3.png">
 
+```jsx
+function myFunction(message){
+    document.getElementById("mapView").innerHTML() = message;
+};
+```
+#### Explanation
+```shell
+myFunction is the functionName;
+message is the function argument(s);
+document.getElementById is forms the function body
+```
 ### [Discovering the ArcGIS API for JavaScript](https://developers.arcgis.com/)
 An application program interface (API) is set of objects and tools used for building applications. APIs exist for building desktop, mobile, and web-based applications. The ArcGIS API for JavaScript is a web API that allows you to script applications that are accessible over the web. Numerous APIs are available for building applications, and you can use multiple APIs to build a single web app. Using the ArcGIS API for JavaScript, you can implement GIS and mapping interaction-related functions by writing just a few lines of JavaScript code
 
