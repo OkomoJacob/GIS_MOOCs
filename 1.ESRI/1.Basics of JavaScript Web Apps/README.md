@@ -105,7 +105,7 @@ Mapping, querying, feature editing, tracking, routing, and geoprocessing tasks a
 ```
 
 - The ArcGIS API for JavaScript communicates directly with individual services published to ArcGIS for Server or services hosted in Portal for ArcGIS or ArcGIS Online.<br>
-- The ArcGIS API for JavaScript is built on top of the [Dojo Toolkit](https://dojotoolkit.org/).The API for JS pulls the info into the dojo require function as shown in the cript above. <br>
+- The ArcGIS API for JavaScript is built on top of the [Dojo Toolkit](https://dojotoolkit.org).The API for JS pulls the info into the dojo require function as shown in the cript above. <br>
 - The toolkit provides widgets, CSS styles, and JavaScript functions for building robust interactive web apps.<br>
 
 ### Implementing the ArcGIS API for JavaScript
